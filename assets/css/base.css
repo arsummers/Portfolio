@@ -87,5 +87,10 @@ ol {
 
 	form textarea {
 		min-height: 14em;
-	}
+  }
+  table {
+		width: 100%;
+		text-align: left;
+  }
+  
 
