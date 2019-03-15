@@ -1,0 +1,99 @@
+header {
+  margin: 0 0 2em 0;
+}
+
+  header > p {
+    margin: 1em 0 0 0;
+  }
+
+footer {
+  margin: 2em 0 0 0;
+}
+sub {
+  position: relative;
+  top: 0.5em;
+  font-size: 0.8em;
+}
+sup {
+  position: relative;
+  top: -0.5em;
+  font-size: 0.8em;
+}
+
+hr {
+  border: 0;
+  border-top: solid 1px #ddd;
+}
+
+blockquote {
+  border-left: solid 0.5em #ddd;
+  padding: 1em 0 1em 2em;
+  font-style: italic;
+}
+
+p, ul, ol, dl, table {
+  margin-bottom: 2em;
+}
+
+br.clear {
+  clear: both;
+}
+
+section, article {
+  margin-bottom: 3em;
+}
+
+  section > :last-child,
+  section > .container, section:last-child, article > :last-child,
+  article > .container, article:last-child {
+    margin-bottom: 0;
+  }
+
+  .row > section, .row > article {
+    margin-bottom: 0;
+  }
+
+  .image {
+		display: inline-block;
+		border: 0;
+	}
+
+		.image img {
+			display: block;
+			width: 100%;
+    }
+    .image.fit {
+			display: block;
+			width: 100%;
+		}
+
+		.image.featured {
+			display: block;
+			width: 100%;
+			margin: 0 0 2em 0;
+		}
+
+		.image.left {
+			float: left;
+			margin: 0 2em 2em 0;
+		}
+
+		.image.centered {
+			display: block;
+			margin: 0 0 2em 0;
+		}
+
+			.image.centered img {
+				margin: 0 auto;
+				width: auto;
+      }
+      
+      
+	.item {
+		box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05);
+		margin-bottom: 40px;
+	}
+
+
+    
+
