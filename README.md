@@ -26,3 +26,4 @@ Finish time: 1:36
 
 Actual time needed to complete: 1:08
 
+Total time: 3: 23
