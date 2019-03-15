@@ -1236,7 +1236,7 @@ input, select, textarea {
 
 		} */
 
-		@media screen and (max-width: 960px) {
+		/* @media screen and (max-width: 960px) {
 
 			.row {
 				display: flex;
@@ -1479,9 +1479,9 @@ input, select, textarea {
 							padding-top: 40px;
 						}
 
-		}
+		} */
 
-		@media screen and (max-width: 736px) {
+		/* @media screen and (max-width: 736px) {
 
 			.row {
 				display: flex;
@@ -1724,11 +1724,11 @@ input, select, textarea {
 							padding-top: 40px;
 						}
 
-		}
+		} */
 
 /* Sections/Article */
 
-	section, article {
+	/* section, article {
 		margin-bottom: 3em;
 	}
 
@@ -1740,11 +1740,11 @@ input, select, textarea {
 
 		.row > section, .row > article {
 			margin-bottom: 0;
-		}
+		} */
 
 /* Image */
 
-	.image {
+	/* .image {
 		display: inline-block;
 		border: 0;
 	}
@@ -1752,9 +1752,9 @@ input, select, textarea {
 		.image img {
 			display: block;
 			width: 100%;
-		}
+		} */
 
-		.image.avatar48 {
+		/* .image.avatar48 {
 			width: 48px;
 			height: 48px;
 			background: #f00;
@@ -1763,9 +1763,9 @@ input, select, textarea {
 			.image.avatar48 img {
 				width: 48px;
 				height: 48px;
-			}
+			} */
 
-		.image.fit {
+		/* .image.fit {
 			display: block;
 			width: 100%;
 		}
@@ -1789,7 +1789,7 @@ input, select, textarea {
 			.image.centered img {
 				margin: 0 auto;
 				width: auto;
-			}
+			} */
 
 /* List */
 
