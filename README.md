@@ -17,6 +17,7 @@ Number and name of feature: Personalize portfolio template
 Estimate of time needed to complete: 1 hour
 
 Start time: 11:15
+break: 11:46 -11:57
 
 Finish time: 
 
