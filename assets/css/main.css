@@ -2363,13 +2363,12 @@ input, select, textarea {
 
 /* Narrower */
 
-	#headerToggle {
+	/* #headerToggle {
 		display: none;
 	}
 
 	@media screen and (max-width: 960px) {
 
-		/* Basic */
 
 			html, body {
 				overflow-x: hidden;
@@ -2387,20 +2386,19 @@ input, select, textarea {
 				padding: 0 2em 0 2em;
 			}
 
-		/* Item */
-
+		
 			.item {
 				margin-bottom: 15px;
 			}
 
-		/* Icons */
+
 
 			ul.icons a {
 				width: 1.75em;
 				font-size: 1.25em;
 			}
 
-		/* Header */
+		
 
 			#header {
 				-moz-backface-visibility: hidden;
@@ -2521,13 +2519,13 @@ input, select, textarea {
 				transform: translateX(0);
 			}
 
-		/* Footer */
+
 
 			#footer {
 				margin-left: 0;
 			}
 
-		/* Main */
+
 
 			#main {
 				-moz-backface-visibility: hidden;
@@ -2550,13 +2548,13 @@ input, select, textarea {
 					padding: 4em 0;
 				}
 
-	}
+	} */
 
 /* Mobile */
-
+/* 
 	@media screen and (max-width: 736px) {
 
-		/* Basic */
+
 
 			body, input, textarea, select {
 				font-size: 14pt;
@@ -2572,14 +2570,14 @@ input, select, textarea {
 				padding: 0 15px 0 15px;
 			}
 
-		/* List */
+		
 
 			ul.icons a {
 				width: 2em;
 				font-size: 1.25em;
 			}
 
-		/* Main */
+
 
 			#main > section {
 				padding: 2em 0;
@@ -2593,7 +2591,7 @@ input, select, textarea {
 					padding: 0 1em;
 				}
 
-		/* Footer */
+		
 
 			#footer .copyright li {
 				display: block;
@@ -2607,4 +2605,4 @@ input, select, textarea {
 					margin-top: 0;
 				}
 
-	}
+	} */
