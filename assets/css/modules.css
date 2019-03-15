@@ -137,4 +137,16 @@ a:hover {
   .button:active {
     background-color: #7eaeac;
   }
+  .item header {
+    background: #fff;
+    margin: 0;
+    padding: 1em 0 1em 0;
+    font-size: 0.8em;
+  }
+  .icon {
+		text-decoration: none;
+	}
+	.icon > .label {
+    display: none;
+  }
   
