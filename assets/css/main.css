@@ -2251,39 +2251,39 @@ input, select, textarea {
 
 /* Wide */
 
-	@media screen and (min-width: 961px) and (max-width: 1880px) {
+	/* @media screen and (min-width: 961px) and (max-width: 1880px) { */
 
 		/* Basic */
 
-			body, input, textarea, select {
+			/* body, input, textarea, select {
 				font-size: 17pt;
-			}
+			} */
 
 		/* Header */
 
-			#header {
+			/* #header {
 				width: 300px;
-			}
+			} */
 
 		/* Footer */
 
-			#footer {
+			/* #footer {
 				margin-left: 300px;
-			}
+			} */
 
 		/* Main */
 
-			#main {
+			/* #main {
 				margin-left: 300px;
 			}
 
-	}
+	} */
 
 /* Normal */
 
-	@media screen and (min-width: 961px) and (max-width: 1620px) {
+	/* @media screen and (min-width: 961px) and (max-width: 1620px) {
 
-		/* Main */
+	
 
 			#main > section {
 				padding: 3em 0;
@@ -2293,13 +2293,13 @@ input, select, textarea {
 				padding: 5em 0;
 			}
 
-	}
+	} */
 
 /* Narrow */
 
 	@media screen and (min-width: 961px) and (max-width: 1320px) {
 
-		/* Basic */
+		
 
 			body, input, textarea, select {
 				font-size: 16pt;
@@ -2309,19 +2309,19 @@ input, select, textarea {
 				padding: 0 2em 0 2em;
 			}
 
-		/* Icons */
+
 
 			ul.icons li a {
 				width: 1.75em;
 			}
 
-		/* Item */
+
 
 			.item {
 				margin-bottom: 20px;
 			}
 
-		/* Header */
+
 
 			#header {
 				width: 20%;
@@ -2348,13 +2348,12 @@ input, select, textarea {
 						line-height: 2.25em;
 					}
 
-		/* Footer */
 
 			#footer {
 				margin-left: 20%;
 			}
 
-		/* Main */
+
 
 			#main {
 				margin-left: 20%;

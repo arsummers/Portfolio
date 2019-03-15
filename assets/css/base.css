@@ -94,4 +94,6 @@ ol {
   }
   
   
-
+	#headerToggle {
+		display: none;
+	}

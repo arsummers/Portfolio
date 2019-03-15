@@ -146,8 +146,7 @@ a:hover {
   .icon {
 		text-decoration: none;
 	}
-	.icon > .label {
+
+  .icon > .label {
     display: none;
   }
-
-  
