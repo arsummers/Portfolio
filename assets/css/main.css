@@ -2295,11 +2295,11 @@ input, select, textarea {
 
 	} */
 
-/* Narrow */
+/* Narrow
 
 	@media screen and (min-width: 961px) and (max-width: 1320px) {
 
-		
+
 
 			body, input, textarea, select {
 				font-size: 16pt;
@@ -2359,7 +2359,7 @@ input, select, textarea {
 				margin-left: 20%;
 			}
 
-	}
+	} */
 
 /* Narrower */
 
