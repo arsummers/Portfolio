@@ -1,9 +1,11 @@
 # Portfolio
-Number and name of feature: ________________________________
 
-Estimate of time needed to complete: _____
+#Feature 1
+Number and name of feature: Refactor CSS
 
-Start time: _____
+Estimate of time needed to complete: 1:30
+
+Start time: 9:00
 
 Finish time: _____
 
