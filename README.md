@@ -27,3 +27,19 @@ Finish time: 1:36
 Actual time needed to complete: 1:08
 
 Total time: 3: 23
+
+#Feature 3/Functionality Lab Feature 1
+Number and name of feature: Feature 3, add functionality
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 8:45
+
+Finish time: 11:30
+
+Actual time needed to complete: 2:45
+
+Took extra time because I waffled between video and an image carousel
+
+Video from: https://coverr.co/videos/Gas%20from%20Ground
+Video tutorial from: https://www.w3schools.com/howto/howto_css_fullscreen_video.asp
