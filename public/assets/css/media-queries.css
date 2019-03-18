@@ -1605,7 +1605,7 @@
 
 }
 
-/* Narrower */
+/* Narrower - tablet view */
 
 #headerToggle {
   display: none;
@@ -1645,7 +1645,7 @@
 
   /* Header */
 
-    #header {
+    /* #header {
       -moz-backface-visibility: hidden;
       -webkit-backface-visibility: hidden;
       -ms-backface-visibility: hidden;
@@ -1661,7 +1661,7 @@
       -webkit-overflow-scrolling: touch;
       display: block;
       height: 100%;
-      left: 0;
+      left: 05;
       overflow-y: auto;
       position: fixed;
       top: 0;
@@ -1670,6 +1670,10 @@
       width: 275px;
       background: #222729 url("images/overlay.png");
       box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.125);
+    } */
+
+    #header {
+      width: 200px;
     }
 
       #header .top {
@@ -1743,6 +1747,8 @@
           line-height: 2.25em;
         } */
 
+        
+
     body.header-visible #main {
       -moz-transform: translateX(275px);
       -webkit-transform: translateX(275px);
@@ -1782,7 +1788,7 @@
       -ms-transition: -ms-transform 0.5s ease;
       transition: transform 0.5s ease;
       padding-bottom: 1px;
-      margin-left: 0;
+      margin-left: 25%;
     }
 
       #main > section {
@@ -1814,6 +1820,35 @@
       padding: 0 15px 0 15px;
     }
 
+    /* Header */
+    #header {
+      -moz-backface-visibility: hidden;
+      -webkit-backface-visibility: hidden;
+      -ms-backface-visibility: hidden;
+      backface-visibility: hidden;
+      -moz-transform: translateX(-275px);
+      -webkit-transform: translateX(-275px);
+      -ms-transform: translateX(-275px);
+      transform: translateX(-275px);
+      -moz-transition: -moz-transform 0.5s ease;
+      -webkit-transition: -webkit-transform 0.5s ease;
+      -ms-transition: -ms-transform 0.5s ease;
+      transition: transform 0.5s ease;
+      -webkit-overflow-scrolling: touch;
+      display: block;
+      height: 100%;
+      left: 05;
+      overflow-y: auto;
+      position: fixed;
+      top: 0;
+      width: 275px;
+      z-index: 10002;
+      width: 275px;
+      background: #222729 url("images/overlay.png");
+      box-shadow: inset -0.25em 0 0.25em 0 rgba(0, 0, 0, 0.125);
+    }
+
+    /* Shows hamburger menu in mobile view */
     #headerToggle {
       -moz-backface-visibility: hidden;
       -webkit-backface-visibility: hidden;
@@ -1879,6 +1914,18 @@
     }
 
   /* Main */
+  #main {
+    -moz-backface-visibility: hidden;
+    -webkit-backface-visibility: hidden;
+    -ms-backface-visibility: hidden;
+    backface-visibility: hidden;
+    -moz-transition: -moz-transform 0.5s ease;
+    -webkit-transition: -webkit-transform 0.5s ease;
+    -ms-transition: -ms-transform 0.5s ease;
+    transition: transform 0.5s ease;
+    padding-bottom: 1px;
+    margin-left: 0%;
+  }
 
     #main > section {
       padding: 2em 0;
