@@ -27,3 +27,14 @@ Finish time: 1:36
 Actual time needed to complete: 1:08
 
 Total time: 3: 23
+
+#Feature 3/Functionality Lab Feature 1
+Number and name of feature: Feature 3, add functionality
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 8:45
+
+Finish time: _____
+
+Actual time needed to complete: _____
