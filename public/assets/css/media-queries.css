@@ -1693,7 +1693,7 @@
       padding: 0.5em 1.25em 0.5em 1.25em;
     }
 
-    #headerToggle {
+    /* #headerToggle {
       -moz-backface-visibility: hidden;
       -webkit-backface-visibility: hidden;
       -ms-backface-visibility: hidden;
@@ -1709,7 +1709,11 @@
       top: 0;
       width: 3.25em;
       z-index: 10001;
+    } */
+    #headerToggle {
+      display: none;
     }
+/*     
 
       #headerToggle .toggle {
         position: absolute;
@@ -1719,7 +1723,7 @@
         height: 100%;
         outline: 0;
         border: 0;
-      }
+      } */
 
         #headerToggle .toggle:before {
           font-family: FontAwesome;
@@ -1751,12 +1755,12 @@
       transform: translateX(275px);
     }
 
-    body.header-visible #headerToggle {
+    /* body.header-visible #headerToggle {
       -moz-transform: translateX(275px);
       -webkit-transform: translateX(275px);
       -ms-transform: translateX(275px);
       transform: translateX(275px);
-    }
+    } */
 
     body.header-visible #header {
       -moz-transform: translateX(0);
