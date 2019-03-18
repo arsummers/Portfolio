@@ -42,3 +42,4 @@ Actual time needed to complete: 2:45
 Took extra time because I waffled between video and an image carousel
 
 Video from: https://coverr.co/videos/Gas%20from%20Ground
+Video tutorial from: https://www.w3schools.com/howto/howto_css_fullscreen_video.asp
