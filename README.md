@@ -41,4 +41,4 @@ Actual time needed to complete: 2:45
 
 Took extra time because I waffled between video and an image carousel
 
-Video from: https://www.ignitemotion.com/video/retro-backgrounds/retro-arrow-2/
+Video from: https://coverr.co/videos/Gas%20from%20Ground
